@@ -53,7 +53,7 @@ To run the app on your system,download the repository setup the environment and 
 
 ```streamlit run app.py``` in your terminal.
 
-The should look like :
+The app should look like :
 
 
 ![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/Home.jpg?raw=true)
