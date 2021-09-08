@@ -56,7 +56,7 @@ To run the app on your system,download the repository setup the environment and 
 We are working day and night to deploy our app on the streamlit platform but it will take some time as we have to test for bugs and crashes in the app. However it will work fine in your system until the requirements and environment has been setup correctly.
 
 
-![Sneek Peak of the EnergyNET app](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/Screenshot 2021-09-08 141409.jpg?raw=true)
 
 
 
