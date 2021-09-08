@@ -57,11 +57,11 @@ We are working day and night to deploy our app on the streamlit platform but it 
 
 
 
-![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/.jpg?raw=true)
+![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/Home.jpg?raw=true)
 
-![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/.jpg?raw=true)
+![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/EDA1.jpg?raw=true)
 
-![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/.jpg?raw=true)
+![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/ML.jpg?raw=true)
 
 
 
