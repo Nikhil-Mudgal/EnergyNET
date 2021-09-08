@@ -65,8 +65,6 @@ We are working day and night to deploy our app on the streamlit platform but it 
 
 
 
-This is just a test dataset so kindly neglect the absurd values. The original images will be attached once our app is deployed.
-
 And yes the app is in Dark Mode !!!!
 
 
