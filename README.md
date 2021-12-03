@@ -58,7 +58,7 @@ The app should look like :
 
 ![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/Home.jpg?raw=true)
 
-![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/EDA1.jpg?raw=true)
+<!-- ![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/EDA1.jpg?raw=true) -->
 
 ![Sneek Peak of the EnergyNET app](https://github.com/Nikhil-Mudgal/EnergyNET/blob/main/Images/ML.jpg?raw=true)
 
